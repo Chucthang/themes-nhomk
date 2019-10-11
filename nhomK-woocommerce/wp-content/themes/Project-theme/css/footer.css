@@ -1,0 +1,19 @@
+.wrap_footer
+{ 
+       position: relative;
+    width: 100%;
+    height: auto;
+
+bottom: 0;
+
+
+    background: black;
+}
+.test_footer
+{
+    width: 600px;
+    padding: 20px 0px;
+ 
+    margin: 0 auto;
+    color: white;
+}
