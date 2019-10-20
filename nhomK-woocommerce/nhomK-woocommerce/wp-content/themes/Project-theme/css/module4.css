@@ -1,0 +1,106 @@
+@font-face {
+  font-family: Libre Baskerville;
+  src: url(../fonts/Libre-Baskerville.woff2);
+  font-weight: bold;
+}
+.type-4 .padding-4
+{
+  padding: 45px 0px;
+}
+.type-4 .home-widget.widget_text {
+  margin-top: 40px;
+  border: 1px solid #ccc;
+  padding: 5%;
+  border-top: 3px solid #FF694F;
+  box-shadow: 0 0 8px #ccc;
+  max-width: 100%;
+  height: 240px;
+}
+.type-4 .home-widget.widget_text.last {
+  margin-right: 0;
+}
+.type-4 .home-widget.widget_text .widget-content .widgettitle {
+  font-size: 16px;
+  margin-bottom: 10px;
+  width: 100%;
+  padding-bottom: 7px;
+  text-transform: uppercase;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 400;
+  color: #000;
+}
+.type-4 .home-widget.widget_text .widget-content .textwidget {
+  background: none repeat scroll 0 0 transparent;
+  border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  outline: 0 none;
+  padding: 0;
+  color: #3d3d3d;
+  vertical-align: baseline;
+}
+.type-4 .home-widget.widget_text .widget-content .textwidget img {
+  width: 270px;
+  height: 100px;
+}
+@media (max-width: 700px) and (min-width: 320px) {
+  .type-4 .home-widget.widget_text {
+    max-width: 100% !important;
+    margin-right: 0%;
+    padding: 0 15xp;
+  }
+}
+@media (max-width: 995px) and (min-width: 701px) {
+  .type-4 .home-widget.widget_text {
+    max-width: 100% !important;
+  }
+}
+.type-5 {
+  width: 100%;
+  float: left;
+  padding: 0;
+  height: auto;
+  margin-top: 0px;
+  background-image: url(../images/header-bg-pattern.png);
+  margin-bottom: 15px;
+  background-color: #6ab7b6;
+}
+/* .line-top::after
+{
+  background: url('../images/m-5.png') top center no-repeat;
+} */
+@font-face {
+  font-family: Libre Baskerville;
+  src: url(../fonts/Libre-Baskerville.woff2);
+  font-weight: bold;
+}
+.type-5 .top-border {
+  width: 100%;
+  height: 3px;
+  background: url(../images/borderTop.png) repeat-x bottom left;
+  display: block;
+  margin-bottom: 35px;
+}
+.type-5 .bottom-border {
+  width: 100%;
+  height: 3px;
+  background: url(../images/borderBottom.png) repeat-x top left;
+  display: block;
+  margin-top: 30px;
+}
+.type-5 p.quote {
+  font-size: 24px;
+  color: #FFF;
+  margin: 0 auto;
+  line-height: 30px;
+  font-weight: 400;
+  padding-bottom: 4px;
+  text-align: center;
+}
+.type-5 p.quote-second {
+  padding-bottom: 0;
+  text-align: center;
+  color: #FFF;
+}

@@ -1,0 +1,145 @@
+.wrap_slidebanner
+{
+    width: 100%;
+    height: auto;
+position: relative;
+
+}
+.size-imslide
+{
+      width: 100%;
+    height: 100%;
+
+  
+
+    background-size: cover;
+    background-position: 50%;
+}
+.type-3 {
+    position: relative;
+    height: 100%;
+  }
+  .slide-button:hover {
+    text-decoration: none;
+    opacity: 0.9;
+    color: #fff;
+  }
+  .slide-button {
+    background-color: orange;
+    border-radius: 3px;
+    line-height: 1em;
+    padding: 8px 16px;
+    text-align: center;
+    text-shadow: none;
+    cursor: pointer;
+    font: 400 20px "Oswald", sans-serif;
+    color: #FCFCFC;
+    float: right;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
+  .flex-caption {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: transparent;
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .slider-caption {
+    padding-bottom: 0;
+    float: left;
+    clear: left;
+    background: rgba(255,255,255,0.4);
+    padding: 6px 10px;
+    max-width: 50%;
+    color: #3d3d3d;
+    text-shadow: none;
+    font-family: 'Lora';
+    padding-left: 1px;
+  }
+  .slider-caption1 {
+    padding-bottom: 0;
+    float: left;
+    clear: left;
+    background: rgba(255,255,255,0.4);
+    padding: 6px 10px;
+    max-width: 60%;
+    color: #3d3d3d;
+    text-shadow: none;
+    font-family: 'Lora';
+  }
+  .home-slide-title {
+    color: #3d3d3d;
+    font-size: 24px;
+    float: left;
+    clear: left;
+    background: rgba(255,255,255,0.4);
+    padding: 6px 10px;
+    margin-bottom: 0;
+  }
+  .swiper-container {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    width: 100%;
+    height: 580px;
+    background: #fff;
+    position: relative;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------*/
+/* 
+.changesize
+{
+    width: 100%;
+    height: 380px;
+
+  
+
+    background-size: cover;
+    background-position: 50%;
+}
+.size-imslide
+{
+      width: 100%;
+    height: 100%;
+
+  
+
+    background-size: cover;
+    background-position: 50%;
+}
+.owl-nav ,.owl-dots
+{
+    display: none;
+} */

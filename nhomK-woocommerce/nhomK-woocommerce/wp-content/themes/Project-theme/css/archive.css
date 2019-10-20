@@ -1,0 +1,32 @@
+.box_ajax
+{
+    padding: 35px 0px;
+    min-height: 100vh;
+    
+}
+.phantrang .ul-pt .li-pt 
+{
+    /* padding: 10px; */
+   
+    display: inline-table;
+}
+.phantrang .ul-pt .li-pt .a-pt
+{
+   color: black;
+   font-weight: bold;
+   padding: 10px 15px;
+   background:  rgb(221, 217, 217);
+}
+
+
+.phantrang .ul-pt .a-pt:hover 
+{
+  border-radius: 100%;
+  transition: 0.8s;
+    background: rgb(2, 2, 2);
+}
+.phantrang .ul-pt .li-pt:hover .a-pt
+{
+   color: rgb(255, 255, 255);
+   font-weight: bold;
+}

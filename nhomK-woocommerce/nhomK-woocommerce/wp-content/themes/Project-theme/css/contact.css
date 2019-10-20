@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    overflow: scroll;
+    overflow-x: hidden;
+  }
+  ::-webkit-scrollbar {
+    width: 0px;
+  }
+  .type-1001 a {
+    text-decoration: none;
+    font-size: 13px;
+    cursor: pointer;
+  }
+  .type-1001 ul li {
+    list-style: none;
+  }
+  .type-1001 .container .contact .breadcum {
+    padding: 20px 0px;
+  }
+  .type-1001 .container .contact .breadcum .icon-home {
+    color: #6b6868;
+  }
+  .type-1001 .container .contact .breadcum .icon-home .fa-home {
+    color: #4b4a4a;
+  }
+  .type-1001 .container .contact .breadcum .txt-home a {
+    color: #ACACAC;
+  }
+  .type-1001 .container .contact .contact-below .entry-contact .title-contact {
+    color: #3d3d3d;
+    margin-bottom: 4px;
+    font-size: 28px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .type-1001 .container .contact .contact-below .entry-contact .subtitle {
+    line-height: 0.8;
+    color: #ACACAC;
+  }
+  .type-1001 .container .contact .contact-below .maps_sidebar {
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+  }
+  .type-1001 .container .contact .contact-below .maps_sidebar .maps_left {
+    width: 70%;
+    float: left;
+  }
+  .type-1001 .container .contact .contact-below .maps_sidebar .maps_left .wrap_text_maps {
+    width: 90%;
+    overflow: hidden;
+  }
+  .type-1001 .container .contact .contact-below .maps_sidebar .maps_left .wrap_text_maps .txt_introd {
+    word-break: break-all;
+    color: #ACACAC;
+    padding-bottom: 6px;
+  }
+  .type-1001 .container .contact .contact-below .maps_sidebar .sidebar_right {
+    width: 30%;
+    float: right;
+    position: relative;
+    display: flex;
+  }
+  .type-1001 .container .contact .contact-below .maps_sidebar .sidebar_right .add-shadow {
+    width: 50px;
+    height: 200px;
+    background: white;
+    box-shadow: 14px 0px 15px -16px #4b4a4a;
+  }
+  .type-1001 .container .contact .contact-below .maps_sidebar .sidebar_right .wrap_sidebartext {
+    width: 60%;
+    margin: 0 auto;
+  }
+  .type-1001 .container .contact .contact-below .maps_sidebar .sidebar_right .wrap_sidebartext h3 {
+    font-size: 16px;
+    color: #3d3d3d;
+  }
+  .type-1001 .container .contact .contact-below .maps_sidebar .sidebar_right .wrap_sidebartext .below_text .txt_introd {
+    color: #ACACAC;
+  }
+  @media (max-width: 841px) {
+    .type-1001 .contact .contact-below .maps_sidebar .sidebar_right {
+      float: left;
+    }
+    .type-1001 .contact .contact-below .maps_sidebar .sidebar_right .add-shadow {
+      display: none;
+    }
+  }
+  

@@ -1,0 +1,44 @@
+2019-10-15T02:43:31+00:00 CRITICAL Uncaught Error: Call to undefined function load_posts_one() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\product-of-category\collection.php:112
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(441): Product_Widget->update(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\includes\ajax-actions.php(2223): WP_Widget->update_callback(Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-hook.php(286): wp_ajax_save_widget('')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\admin-ajax.php(173): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\product-of-category\collection.php on line 112
+
+2019-10-15T02:43:56+00:00 CRITICAL Uncaught Error: Call to undefined function load_posts_one() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\product-of-category\collection.php:112
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(441): Product_Widget->update(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\includes\ajax-actions.php(2223): WP_Widget->update_callback(Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-hook.php(286): wp_ajax_save_widget('')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\admin-ajax.php(173): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\product-of-category\collection.php on line 112
+
+2019-10-15T02:45:48+00:00 CRITICAL Uncaught Error: Call to undefined function load_posts_one() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\product-of-category\collection.php:112
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(441): Product_Widget->update(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\includes\ajax-actions.php(2223): WP_Widget->update_callback(Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-hook.php(286): wp_ajax_save_widget('')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\admin-ajax.php(173): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\product-of-category\collection.php on line 112
+
+2019-10-15T02:48:12+00:00 CRITICAL Uncaught Error: Call to undefined function load_posts_one() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\product-of-category\collection.php:112
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(441): Product_Widget->update(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\includes\ajax-actions.php(2223): WP_Widget->update_callback(Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-hook.php(286): wp_ajax_save_widget('')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\admin-ajax.php(173): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\product-of-category\collection.php on line 112
+

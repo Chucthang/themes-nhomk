@@ -1,0 +1,123 @@
+2019-10-12T01:18:10+00:00 CRITICAL require_once(): Failed opening required 'C:/xampp/htdocs/nhomK-woocommerce/libs/lessc.inc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 22
+
+2019-10-12T01:18:50+00:00 CRITICAL require_once(): Failed opening required 'C:/xampp/htdocs/nhomK-woocommerce/libs/lessc.inc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 17
+
+2019-10-12T01:20:08+00:00 CRITICAL Uncaught Exception: load error: failed to find less/1000.less in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php:1818
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php(21): lessc->compileFile('less/1000.less', 'css/1000.css')
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-settings.php(499): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php on line 1818
+
+2019-10-12T01:20:45+00:00 CRITICAL Uncaught Exception: load error: failed to find C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php:1818
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php(21): lessc->compileFile('C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-settings.php(499): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nhomK-woocommerce\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php on line 1818
+
+2019-10-12T01:22:10+00:00 CRITICAL Uncaught Exception: load error: failed to find C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php:1818
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php(21): lessc->compileFile('C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-settings.php(499): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php on line 1818
+
+2019-10-12T01:23:23+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 21
+
+2019-10-12T01:24:04+00:00 CRITICAL Uncaught Exception: load error: failed to find C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php:1818
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php(21): lessc->compileFile('C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-settings.php(499): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nhomK-woocommerce\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php on line 1818
+
+2019-10-12T01:24:09+00:00 CRITICAL Uncaught Exception: load error: failed to find C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php:1818
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php(21): lessc->compileFile('C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-settings.php(499): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php on line 1818
+
+2019-10-12T01:25:01+00:00 CRITICAL require_once(): Failed opening required 'C:/xampp/htdocs/nhomK-woocommerce/libs/lessc.inc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 17
+
+2019-10-12T01:26:08+00:00 CRITICAL require_once(): Failed opening required 'C:/xampp/htdocs/nhomK-woocommerce/wp-admin/libs/lessc.inc.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 17
+
+2019-10-12T01:27:57+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 21
+
+2019-10-12T01:28:08+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 21
+
+2019-10-12T01:28:58+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 21
+
+2019-10-12T01:30:59+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 21
+
+2019-10-12T01:31:59+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 21
+
+2019-10-12T01:32:42+00:00 CRITICAL Uncaught Exception: load error: failed to find C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php:1818
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php(21): lessc->compileFile('C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-settings.php(499): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nhomK-woocommerce\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php on line 1818
+
+2019-10-12T01:33:01+00:00 CRITICAL Uncaught Exception: load error: failed to find C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php:1818
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php(21): lessc->compileFile('C:\\xampp\\htdocs...', 'C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-settings.php(499): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php on line 1818
+
+2019-10-12T01:35:01+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 21
+
+2019-10-12T01:37:00+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 21
+
+2019-10-12T01:38:34+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 21
+
+2019-10-12T01:38:47+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\nhomK-woocommerce/wp-content/themes/Project-themeless/1000.less' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 21
+
+2019-10-12T01:42:39+00:00 CRITICAL Uncaught Exception: load error: failed to find 1 in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php:1818
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php(21): lessc->compileFile(1, 1)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-settings.php(499): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nhomK-woocommerce\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php on line 1818
+
+2019-10-12T01:43:25+00:00 CRITICAL Uncaught Exception: load error: failed to find 1 in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php:1818
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php(21): lessc->compileFile(1, 1)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-settings.php(499): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\nhomK-woocommerce\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\libs\lessc.inc.php on line 1818
+

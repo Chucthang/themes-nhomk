@@ -1,0 +1,145 @@
+2019-10-08T01:17:14+00:00 CRITICAL Uncaught Error: Call to undefined function getinstance() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:154
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-woocomme in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 154
+
+2019-10-08T01:17:43+00:00 CRITICAL Uncaught Error: Call to undefined function load_posts_one() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:155
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-wooco in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 155
+
+2019-10-08T01:18:33+00:00 CRITICAL Uncaught Error: Call to undefined function getinstance() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:154
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-woocomme in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 154
+
+2019-10-08T01:18:58+00:00 CRITICAL Uncaught Error: Call to undefined function getinstance() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:154
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-woocomme in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 154
+
+2019-10-08T01:19:00+00:00 CRITICAL Uncaught Error: Call to undefined function getinstance() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:154
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-woocomme in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 154
+
+2019-10-08T01:19:42+00:00 CRITICAL Uncaught Error: Call to undefined function getinstance() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:152
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-woocomme in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 152
+
+2019-10-08T01:21:42+00:00 CRITICAL Uncaught Error: Call to undefined function getinstance() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:152
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-woocomme in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 152
+
+2019-10-08T01:22:17+00:00 CRITICAL Uncaught Error: Call to undefined function getinstance() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:152
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-woocomme in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 152
+
+2019-10-08T01:27:58+00:00 CRITICAL Uncaught Error: Call to undefined function getinstance() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:152
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-woocomme in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 152
+
+2019-10-08T01:28:25+00:00 CRITICAL Uncaught Error: Call to undefined function getinstance() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:152
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-woocomme in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 152
+
+2019-10-08T02:18:45+00:00 CRITICAL Uncaught Error: Call to undefined function getinstance() in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:150
+Stack trace:
+#0 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\class-wp-widget.php(378): Product_Widget->widget(Array, Array)
+#1 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\widgets.php(770): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\Callwidget\number-collection.php(5): dynamic_sidebar('collection-cont...')
+#3 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(724): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\template.php(671): load_template('C:\\xampp\\htdocs...', false)
+#5 C:\xampp\htdocs\nhomK-woocommerce\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#6 C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\template\template-index.php(13): get_template_part('Callwidget/numb...', 'collection')
+#7 C:\xampp\htdocs\nhomK-woocomme in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php on line 150
+
+2019-10-08T03:09:25+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 516
+
+2019-10-08T03:28:51+00:00 CRITICAL Object of class WP_Query could not be converted to string in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 388
+
+2019-10-08T03:28:57+00:00 CRITICAL Object of class WP_Query could not be converted to string in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 388
+
+2019-10-08T03:35:55+00:00 CRITICAL Cannot redeclare load_posts_one() (previously declared in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:188) in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 403
+
+2019-10-08T03:37:12+00:00 CRITICAL Cannot redeclare load_posts_one() (previously declared in C:\xampp\htdocs\nhomK-woocommerce\wp-content\plugins\collection.php:188) in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\functions.php on line 403
+
+2019-10-08T16:04:19+00:00 CRITICAL Object of class WP_Query could not be converted to string in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\woocommerce\archive-product.php on line 66
+
+2019-10-08T16:32:55+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\woocommerce\archive-product.php on line 101
+
+2019-10-08T16:33:04+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\woocommerce\archive-product.php on line 101
+
+2019-10-08T16:33:16+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\woocommerce\archive-product.php on line 101
+
+2019-10-08T16:33:32+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\woocommerce\archive-product.php on line 101
+
+2019-10-08T16:34:11+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\woocommerce\archive-product.php on line 92
+
+2019-10-08T16:34:25+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\nhomK-woocommerce\wp-content\themes\Project-theme\woocommerce\archive-product.php on line 92
+
